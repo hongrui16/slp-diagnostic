@@ -1,5 +1,5 @@
 # Conditional Collapse in Sign Language Production: A Diagnostic and a Scaling Argument
-[![arXiv](https://img.shields.io/badge/arXiv-2603.17388-b31b1b.svg)](https://arxiv.org/abs/2606.01643)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.01643-b31b1b.svg)](https://arxiv.org/abs/2606.01643)
 > **Rui Hong**, **Jana Kosecka**
 > 
 **Code is coming soon. Stay tuned!**
